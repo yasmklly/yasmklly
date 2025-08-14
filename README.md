@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yasmim and I am a developer.</h2>
+<h2 align="left">Olá! Meu nome é Yasmim e tenho 17 anos. Estudo em uma escola profissionalizante e curso Desenvolvimento de Sistemas.</h2>
 
 ###
 
