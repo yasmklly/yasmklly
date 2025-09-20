@@ -1,7 +1,7 @@
 <h2 align="center">Olá! Meu nome é Yasmim.</h2>
 
 <div align="center">
-  <img src="gif/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="650"/>
+  <img src="gif/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="850"/>
   
   <p align="center">
     Tenho bastante interesse em <strong>programação e desenvolvimento de soluções práticas</strong>.
