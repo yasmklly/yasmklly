@@ -1,24 +1,15 @@
 <h2 align="center">Olá! Meu nome é Yasmim.</h2>
+<div align="center">
+  <img src="gif/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" height="180px"/>
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" alt="Gif animado"/>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <p style="font-size: 16px;">
-    💻 Apaixonada por programação | 🐍 Python |🎨 Desenvolvimento de interfaces<br>
-    🚀 Criando projetos práticos como telas de login, exercícios de lógica e aplicativos estruturados
-  </p>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasmklly&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasmklly&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
-</div>
-
-###
+  <div align="center">
+    <a href="https://github.com/seu-usuario">
+      <img height="160px" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
+    </a>
+  </div>
 
 <div align="center" style="margin-top: 15px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -30,4 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
 </div>
