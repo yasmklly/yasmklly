@@ -5,9 +5,9 @@
 
 <div align="center">
   <div align="center">
-    <a href="https://github.com/seu-usuario">
-      <img height="160px" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/yasmklly">
+      <img height="160px" src="https://github-readme-stats.vercel.app/api?username=yasmklly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmklly&layout=compact&langs_count=7&theme=dracula"/>
     </a>
   </div>
 
@@ -23,3 +23,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   </div>
 </div>
+
