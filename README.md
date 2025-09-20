@@ -1,8 +1,5 @@
 <h2 align="center">Olá! Meu nome é Yasmim.</h2>
 Tenho bastante interesse em **programação e desenvolvimento de soluções práticas**.  
-
-## Minhas habilidades:
-
 - 💻 **Python**: exercícios, automação e lógica de programação.  
 - 🖥️ **Interface de usuário**: criação de telas de login e pequenas aplicações interativas.
 
