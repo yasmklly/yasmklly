@@ -1,5 +1,16 @@
-<h2 align="left">Olá! Meu nome é Yasmim.</h2>
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"/>
+<h2 align="center">Olá! Meu nome é Yasmim.</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300" alt="Gif animado"/>
+</div>
+
+<div align="center">
+  <p>
+    💻 Apaixonada por programação | 🐍 Python | 🎨 Desenvolvimento de interfaces<br>
+    🚀 Criando projetos práticos como telas de login, exercícios de lógica e aplicativos estruturados
+  </p>
+</div>
+
 ###
 
 <div align="center">
@@ -9,7 +20,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -21,9 +32,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
-
-<div align="left">
-</div>
-
-###
