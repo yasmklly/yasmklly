@@ -1,5 +1,9 @@
 <h2 align="center">Olá! Meu nome é Yasmim.</h2>
+
+##
 - 💻 Gosto bastante de **programação** e de explorar novas ferramentas. Pratico diariamente minhas habilidades e estou sempre em buscar de adquirir conhecimento para me aprimorar como desenvolvedora na área.
+- 
+## 
 
 <div align="center">
   <img src="gif/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="850"/>
