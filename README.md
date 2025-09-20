@@ -3,14 +3,6 @@
 <div align="center">
   <img src="gif/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="850"/>
   
-  <p align="center">
-    Tenho bastante interesse em <strong>programação e desenvolvimento de soluções práticas</strong>.
-  </p>
-  
-  <p align="center">
-    Busco sempre <strong>aprender novas tecnologias</strong> e aplicar conceitos de programação de forma <strong>criativa em projetos pessoais</strong>.
-  </p>
-
   <br/>
 
   <a href="https://github.com/yasmklly">
