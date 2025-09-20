@@ -1,6 +1,6 @@
 <h2 align="center">Olá! Meu nome é Yasmim.</h2>
 <div align="center">
-  <img src="gif/nome-do-gif.gif" width="400"/>
+  <img src="gif/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400"/>
 </div>
 
 <div align="center">
