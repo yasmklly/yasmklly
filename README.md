@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Meu nome é Yasmim.</h2><br>
+<h2 align="center">Olá! Meu nome é Yasmim.</h2>
 
 <div align="center"><br>
   <img src="gif/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="850"/>
