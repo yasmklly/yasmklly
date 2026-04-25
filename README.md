@@ -16,7 +16,7 @@
 
 ### 💬 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/yasmim-mikelly" target="_blank">
+  <a href="https://linkedin.com/in/yasmim-mikelly-05b6342b8" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/yasmklly" target="_blank">
